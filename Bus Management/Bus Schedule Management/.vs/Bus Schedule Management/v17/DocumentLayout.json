@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orders\\Order 3\\Bus Schedule Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|d:\\orders\\order 3\\bus schedule management\\bus schedule management\\manageschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|solutionrelative:bus schedule management\\manageschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|D:\\Orders\\Order 3\\Bus Schedule Management\\bus schedule management\\viewschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|solutionrelative:bus schedule management\\viewschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|D:\\Orders\\Order 3\\Bus Schedule Management\\bus schedule management\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|solutionrelative:bus schedule management\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|D:\\Orders\\Order 3\\Bus Schedule Management\\bus schedule management\\manageschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|solutionrelative:bus schedule management\\manageschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|D:\\Orders\\Order 3\\Bus Schedule Management\\bus schedule management\\viewschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|solutionrelative:bus schedule management\\viewschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|D:\\Orders\\Order 3\\Bus Schedule Management\\bus schedule management\\busmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4D0831-95C6-4D28-ACD6-BA7D1306FC67}|Bus Schedule Management\\Bus Schedule Management.csproj|solutionrelative:bus schedule management\\busmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Bus Schedule Management\\MainMenu.cs",
+              "ToolTip": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Bus Schedule Management\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:14:50.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusManager.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\BusManager.cs",
+              "RelativeDocumentMoniker": "Bus Schedule Management\\BusManager.cs",
+              "ToolTip": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\BusManager.cs",
+              "RelativeToolTip": "Bus Schedule Management\\BusManager.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAowCMBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:13:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSchedules.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ViewSchedules.cs",
+              "RelativeDocumentMoniker": "Bus Schedule Management\\ViewSchedules.cs",
+              "ToolTip": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ViewSchedules.cs [Design]",
+              "RelativeToolTip": "Bus Schedule Management\\ViewSchedules.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:56:32.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageSchedule.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ManageSchedule.cs",
+              "RelativeDocumentMoniker": "Bus Schedule Management\\ManageSchedule.cs",
+              "ToolTip": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ManageSchedule.cs",
+              "RelativeToolTip": "Bus Schedule Management\\ManageSchedule.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwFAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:57:12.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageSchedule.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ManageSchedule.cs",
+              "RelativeDocumentMoniker": "Bus Schedule Management\\ManageSchedule.cs",
+              "ToolTip": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ManageSchedule.cs [Design]*",
+              "RelativeToolTip": "Bus Schedule Management\\ManageSchedule.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:53:20.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewSchedules.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ViewSchedules.cs",
+              "RelativeDocumentMoniker": "Bus Schedule Management\\ViewSchedules.cs",
+              "ToolTip": "D:\\Orders\\Order 3\\Bus Schedule Management\\Bus Schedule Management\\ViewSchedules.cs",
+              "RelativeToolTip": "Bus Schedule Management\\ViewSchedules.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAADrAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:57:29.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

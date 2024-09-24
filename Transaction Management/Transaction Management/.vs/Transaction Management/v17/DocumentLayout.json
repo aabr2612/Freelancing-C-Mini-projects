@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orders\\Order 1\\Transaction Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|d:\\orders\\order 1\\transaction management\\transaction management\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|solutionrelative:transaction management\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|d:\\orders\\order 1\\transaction management\\transaction management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|solutionrelative:transaction management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|d:\\orders\\order 1\\transaction management\\transaction management\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|solutionrelative:transaction management\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|d:\\orders\\order 1\\transaction management\\transaction management\\transaction management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|solutionrelative:transaction management\\transaction management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|D:\\Orders\\Order 1\\Transaction Management\\transaction management\\managetransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF1F414-8767-4DF7-BCCF-2506A25E6F3D}|Transaction Management\\Transaction Management.csproj|solutionrelative:transaction management\\managetransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction Management.csproj",
+              "DocumentMoniker": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Transaction Management.csproj",
+              "RelativeDocumentMoniker": "Transaction Management\\Transaction Management.csproj",
+              "ToolTip": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Transaction Management.csproj",
+              "RelativeToolTip": "Transaction Management\\Transaction Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T08:07:29.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction Management\\Transaction.cs",
+              "ToolTip": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Transaction.cs",
+              "RelativeToolTip": "Transaction Management\\Transaction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:38:50.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Transaction Management\\MainMenu.cs",
+              "ToolTip": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Transaction Management\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:08:07.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Program.cs",
+              "RelativeDocumentMoniker": "Transaction Management\\Program.cs",
+              "ToolTip": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Program.cs",
+              "RelativeToolTip": "Transaction Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:12:17.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageTransactions.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\ManageTransactions.cs",
+              "RelativeDocumentMoniker": "Transaction Management\\ManageTransactions.cs",
+              "ToolTip": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\ManageTransactions.cs [Design]",
+              "RelativeToolTip": "Transaction Management\\ManageTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:10:09.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

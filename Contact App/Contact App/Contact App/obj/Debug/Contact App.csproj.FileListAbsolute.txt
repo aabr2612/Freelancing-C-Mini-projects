@@ -1,0 +1,13 @@
+D:\Contact App\Contact App\bin\Debug\Contact App.exe.config
+D:\Contact App\Contact App\bin\Debug\Contact App.exe
+D:\Contact App\Contact App\bin\Debug\Contact App.pdb
+D:\Contact App\Contact App\bin\Debug\Guna.UI2.dll
+D:\Contact App\Contact App\obj\Debug\Contact App.csproj.AssemblyReference.cache
+D:\Contact App\Contact App\obj\Debug\Contact_App.MainForm.resources
+D:\Contact App\Contact App\obj\Debug\Contact_App.Properties.Resources.resources
+D:\Contact App\Contact App\obj\Debug\Contact App.csproj.GenerateResource.cache
+D:\Contact App\Contact App\obj\Debug\Contact App.csproj.CoreCompileInputs.cache
+D:\Contact App\Contact App\obj\Debug\Contact .9193AE64.Up2Date
+D:\Contact App\Contact App\obj\Debug\Contact App.exe
+D:\Contact App\Contact App\obj\Debug\Contact App.pdb
+D:\Contact App\Contact App\obj\Debug\Contact_App.ManageContacts.resources

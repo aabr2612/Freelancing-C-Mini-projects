@@ -1,0 +1,44 @@
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction_Management.MainMenu.resources
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.csproj.GenerateResource.cache
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.AssemblyInfoInputs.cache
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.AssemblyInfo.cs
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.csproj.CoreCompileInputs.cache
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.exe
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.deps.json
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.runtimeconfig.json
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.dll
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.pdb
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.dll
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\refint\Transaction Management.dll
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.pdb
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.genruntimeconfig.cache
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\ref\Transaction Management.dll
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\System.Management.dll
+D:\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.csproj.AssemblyReference.cache
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction_Management.ManageTransactions.resources
+D:\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transact.3C6BC369.Up2Date
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.exe
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.deps.json
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.runtimeconfig.json
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.dll
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Transaction Management.pdb
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\System.Management.dll
+D:\Orders\Order 1\Transaction Management\Transaction Management\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.csproj.AssemblyReference.cache
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction_Management.MainMenu.resources
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction_Management.ManageTransactions.resources
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.csproj.GenerateResource.cache
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.AssemblyInfoInputs.cache
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.AssemblyInfo.cs
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.csproj.CoreCompileInputs.cache
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transact.3C6BC369.Up2Date
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.dll
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\refint\Transaction Management.dll
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.pdb
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\Transaction Management.genruntimeconfig.cache
+D:\Orders\Order 1\Transaction Management\Transaction Management\obj\Debug\net8.0-windows\ref\Transaction Management.dll

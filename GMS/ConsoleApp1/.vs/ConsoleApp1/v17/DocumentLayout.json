@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orders\\Order 10\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|d:\\orders\\order 10\\consoleapp1\\consoleapp1\\gymuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gymuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\gymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\gymsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gymsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\igymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\igymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\comparerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\comparerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Orders\\Order 10\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4617DD2-A22D-4509-B22B-C223D6976644}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GymManager.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\GymManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GymManager.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\GymManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\GymManager.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:31:58.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GymUser.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\GymUser.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GymUser.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\GymUser.cs",
+              "RelativeToolTip": "ConsoleApp1\\GymUser.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:31:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComparerClass.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\ComparerClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ComparerClass.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\ComparerClass.cs",
+              "RelativeToolTip": "ConsoleApp1\\ComparerClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:21:38.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:45:39.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGymManager.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\IGymManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IGymManager.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\IGymManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\IGymManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:44:35.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\Trainer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Trainer.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\Trainer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Trainer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:18:19.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GymSite.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\GymSite.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GymSite.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\GymSite.cs",
+              "RelativeToolTip": "ConsoleApp1\\GymSite.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAWwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:16:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\Session.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Session.cs",
+              "ToolTip": "D:\\Orders\\Order 10\\ConsoleApp1\\ConsoleApp1\\Session.cs",
+              "RelativeToolTip": "ConsoleApp1\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:43.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

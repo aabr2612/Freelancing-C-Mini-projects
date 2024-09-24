@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orders\\Order 11\\Gym Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|d:\\orders\\order 11\\gym management system\\gym management system\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|d:\\orders\\order 11\\gym management system\\gym management system\\personeltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\personeltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|D:\\Orders\\Order 11\\Gym Management System\\gym management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|D:\\Orders\\Order 11\\Gym Management System\\gym management system\\fitnessinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\fitnessinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|D:\\Orders\\Order 11\\Gym Management System\\gym management system\\gymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\gymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|D:\\Orders\\Order 11\\Gym Management System\\gym management system\\igymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\igymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|d:\\orders\\order 11\\gym management system\\gym management system\\igymuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBF6029-6496-41D8-A6F4-9781B7778A0E}|Gym Management System\\Gym Management System.csproj|solutionrelative:gym management system\\igymuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainingSession.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\TrainingSession.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\TrainingSession.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\TrainingSession.cs",
+              "RelativeToolTip": "Gym Management System\\TrainingSession.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:35:40.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonelTrainer.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\PersonelTrainer.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\PersonelTrainer.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\PersonelTrainer.cs",
+              "RelativeToolTip": "Gym Management System\\PersonelTrainer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAUwFUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:17:55.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitnessInstructor.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\FitnessInstructor.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\FitnessInstructor.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\FitnessInstructor.cs",
+              "RelativeToolTip": "Gym Management System\\FitnessInstructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:12:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\Program.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\Program.cs",
+              "RelativeToolTip": "Gym Management System\\Program.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAgwJ8AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:33:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GymManager.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\GymManager.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\GymManager.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\GymManager.cs",
+              "RelativeToolTip": "Gym Management System\\GymManager.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:34:05.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGymUser.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\IGymUser.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\IGymUser.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\IGymUser.cs",
+              "RelativeToolTip": "Gym Management System\\IGymUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:21:08.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGymManager.cs",
+              "DocumentMoniker": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\IGymManager.cs",
+              "RelativeDocumentMoniker": "Gym Management System\\IGymManager.cs",
+              "ToolTip": "D:\\Orders\\Order 11\\Gym Management System\\Gym Management System\\IGymManager.cs",
+              "RelativeToolTip": "Gym Management System\\IGymManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:28:20.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

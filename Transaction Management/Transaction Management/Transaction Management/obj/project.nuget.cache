@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CISn45JrYpA=",
+  "success": true,
+  "projectFilePath": "D:\\Orders\\Order 1\\Transaction Management\\Transaction Management\\Transaction Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdul Rehman\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Abdul Rehman\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Abdul Rehman\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

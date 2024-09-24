@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orders\\Late\\Contact App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|D:\\Orders\\Late\\Contact App\\contact app\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|solutionrelative:contact app\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|D:\\Orders\\Late\\Contact App\\contact app\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|solutionrelative:contact app\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|D:\\Orders\\Late\\Contact App\\contact app\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|solutionrelative:contact app\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|D:\\Orders\\Late\\Contact App\\contact app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D78DBE98-234F-45E1-986C-8C1EA5F11FE6}|Contact App\\Contact App.csproj|solutionrelative:contact app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Orders\\Late\\Contact App\\Contact App\\Contact.cs",
+              "RelativeDocumentMoniker": "Contact App\\Contact.cs",
+              "ToolTip": "D:\\Orders\\Late\\Contact App\\Contact App\\Contact.cs",
+              "RelativeToolTip": "Contact App\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:49:17.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "D:\\Orders\\Late\\Contact App\\Contact App\\ContactData.cs",
+              "RelativeDocumentMoniker": "Contact App\\ContactData.cs",
+              "ToolTip": "D:\\Orders\\Late\\Contact App\\Contact App\\ContactData.cs",
+              "RelativeToolTip": "Contact App\\ContactData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:52:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Orders\\Late\\Contact App\\Contact App\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Contact App\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Orders\\Late\\Contact App\\Contact App\\MainForm.Designer.cs",
+              "RelativeToolTip": "Contact App\\MainForm.Designer.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAwwLYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:21:56.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\Late\\Contact App\\Contact App\\MainForm.cs",
+              "RelativeDocumentMoniker": "Contact App\\MainForm.cs",
+              "ToolTip": "D:\\Orders\\Late\\Contact App\\Contact App\\MainForm.cs [Design]",
+              "RelativeToolTip": "Contact App\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:11:38.926Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

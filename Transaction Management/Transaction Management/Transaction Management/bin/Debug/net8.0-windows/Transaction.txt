@@ -1,0 +1,12 @@
+4,5/30/2024 10:37:33 PM,My Transaction,Income,12
+5,5/30/2024 5:14:05 PM,Sold bike,Income,1200
+6,5/30/2024 5:14:05 PM,My new transaction,Expenses,1000
+4,5/30/2024 10:37:33 PM,My Transaction,Income,12
+5,5/30/2024 5:14:05 PM,Sold bike,Income,1200
+6,5/30/2024 5:14:05 PM,My new transaction,Expenses,1000
+4,5/30/2024 10:37:33 PM,My Transaction,Income,12
+5,5/30/2024 5:14:05 PM,Sold bike,Income,1200
+6,5/30/2024 5:14:05 PM,My new transaction,Expenses,1000
+4,5/30/2024 10:37:33 PM,My Transaction,Income,12
+5,5/30/2024 5:14:05 PM,Sold bike,Income,1200
+6,5/30/2024 5:14:05 PM,My new transaction,Expenses,1000
